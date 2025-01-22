@@ -4,7 +4,7 @@ export const strings = {
     "We're excited to celebrate our special day with you! Please let us know if you can make it.",
   eventDate: "2025-06-15", // YYYY-MM-DD format
   eventDateLabel: "Event Date",
-  eventLocation: "Central Park, New York, NY 10022",
+  eventLocation: "Villa Rosa Kempinski Chiromo Road, Nairobi",
   eventLocationLabel: "Event Location",
   nameLabel: "Full Name",
   emailLabel: "Email Address",
